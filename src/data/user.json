@@ -1,48 +1,42 @@
 {
-	"name": "Kelly Bowlin",
-	"profession": "Web Designer",
-	"links": [
-		{
-			"url": "#",
-			"icon": "link",
-			"title": "Personal Portfolio",
-			"description": "All my latest design projects"
-		},
-		{
-			"url": "#",
-			"icon": "youtube-fill",
-			"title": "Youtube Channel",
-			"description": "All my latest design projects"
-		},
-		{
-			"url": "#",
-			"icon": "shopping-bag-line",
-			"title": "Template Store",
-			"description": "Discover templates that suit you"
-		},
-		{
-			"url": "#",
-			"icon": "link",
-			"title": "Design Podcast",
-			"description": "Every Friday a new episode"
-		},
-		{
-			"url": "#",
-			"icon": "instagram-line",
-			"title": "Instagram Profile",
-			"description": "Designer lifestyle and more"
-		},
-		{
-			"url": "#",
-			"icon": "dribbble-line",
-			"title": "Dribbble Shots",
-			"description": "Know more about my work"
-		},
-		{
-			"url": "#",
-			"icon": "link",
-			"title": "Free Resources",
-			"description": "Collection of free resources"
-		}
-	]
+  "name": "Rizky Rafi",
+  "profession": "Software Developer",
+  "links": [
+    {
+      "url": "https://rizkyrafi.id/",
+      "icon": "link",
+      "title": "Personal Website",
+      "description": "All my projects and writings"
+    },
+    {
+      "url": "https://github.com/rizkraf",
+      "icon": "github-fill",
+      "title": "Github Profile",
+      "description": "All my open-source projects"
+    },
+    {
+      "url": "https://www.linkedin.com/in/rizkraf/",
+      "icon": "linkedin-fill",
+      "title": "Linkedin Profile",
+      "description": "My professional profile"
+    },
+    {
+      "url": "https://www.instagram.com/rizkraf/",
+      "icon": "instagram-line",
+      "title": "Instagram Profile",
+      "description": "My daily life"
+    },
+    {
+      "url": "https://t.me/rizkraf",
+      "icon": "telegram-fill",
+      "title": "Telegram",
+      "description": "Contact me at Telegram"
+    },
+    {
+      "url": "mailto:azhararizkyrafi@gmail.com",
+      "icon": "mail-fill",
+      "title": "Email",
+      "description": "Contact me at Email"
+    }
+  ]
 }
